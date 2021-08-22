@@ -13,10 +13,10 @@ permalink: about.html
 .my
 {
     background-color: lightgrey;
-    width: 300px;
+    width: 100%;
     
     
-    height:200px;
+    height:100;%
 }
 </style>
 
@@ -24,7 +24,7 @@ permalink: about.html
 <div class="my">
 
 <h1 class="center">我的 CSS web 页!</h1>
-<p>你好世界！这是来自 runoob 菜鸟教程的实例。</p>
+<p>还什么都没写 锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦😂😂😂😂</p>
 
 </div>
 

@@ -1,0 +1,19 @@
+---
+title: links
+date: 2013/7/13 20:46:25
+layout: py
+permalink: PY.html
+---
+
+# md
+http://xianbai.me/learn-md/article/extension/table.html
+| 水果        | 价格    |  数量  |
+| --------   | -----:  | :----: |
+| 香蕉        | $1      |   5    |
+| 苹果        | $1      |   6    |
+| 草莓        | $1      |   7    |  
+
+====
+
+---
+12345
